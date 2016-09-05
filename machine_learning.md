@@ -17,4 +17,5 @@
 ## 텐서플로우(From 구글)
 - 텐서플로우 코리아: https://tensorflowkorea.wordpress.com/
 
-
+## 세상에 있는 (거의) 모든 머신러닝 문제 공략법
+- http://keunwoochoi.blogspot.de/2016/08/blog-post.html?m=1
