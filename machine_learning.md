@@ -19,3 +19,4 @@
 
 ## 세상에 있는 (거의) 모든 머신러닝 문제 공략법
 - http://keunwoochoi.blogspot.de/2016/08/blog-post.html?m=1
+- https://www.linkedin.com/pulse/approaching-almost-any-machine-learning-problem-abhishek-thakur
