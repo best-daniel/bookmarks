@@ -8,6 +8,7 @@
 
 ## 모두를 위한 머신러닝과 딥러닝의 강의
 - https://hunkim.github.io/ml
+- https://datascienceschool.net/view-notebook/661128713b654edc928ecb455a826b1d/
 
 ## 페드로 도밍고(머신러닝 교수님)
 - 동영상강의 : https://www.youtube.com/playlist?list=PLTPQEx-31JXgtDaC6-3HxWcp7fq4N8YGr
@@ -20,3 +21,5 @@
 ## 세상에 있는 (거의) 모든 머신러닝 문제 공략법
 - http://keunwoochoi.blogspot.de/2016/08/blog-post.html?m=1
 - https://www.linkedin.com/pulse/approaching-almost-any-machine-learning-problem-abhishek-thakur
+- 
+
