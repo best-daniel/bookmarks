@@ -26,3 +26,15 @@
 ##서울대 머신러닝
 - https://www.youtube.com/playlist?list=PLzWH6Ydh35ggVGbBh48TNs635gv2nxkFI
 
+#ML - Similarity algorithm
+http://dataaspirant.com/2015/04/11/five-most-popular-similarity-measures-implementation-in-python/
+
+#ML - KNN algorithm
+http://machinelearningmastery.com/tutorial-to-implement-k-nearest-neighbors-in-python-from-scratch/
+
+#ML - Best 15 ML alrorithm
+http://www.dodomira.com/2016/08/19/%EB%8C%80%ED%91%9C%EC%A0%81%EC%9D%B8-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-%ED%85%8C%ED%81%AC%EB%8B%89-33%EA%B0%80%EC%A7%80/
+
+#ML - Navie Bayesian
+http://machinelearningmastery.com/naive-bayes-classifier-scratch-python/
+http://scikit-learn.org/stable/modules/naive_bayes.html
